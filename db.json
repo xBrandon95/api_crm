@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Fernando",
+      "empresa": "ENTEL",
+      "email": "correo8@correo.com",
+      "telefono": "7894561",
+      "notas": "dsadas",
+      "id": 2
+    },
+    {
+      "nombre": "John Brandon",
+      "empresa": "ENTEL",
+      "email": "correo2@correo.com",
+      "telefono": "4324324",
+      "notas": "ewdsfds",
+      "id": 4
+    },
+    {
+      "nombre": "Juan de la Torre",
+      "empresa": "UDEMY",
+      "email": "correo8@correo.com",
+      "telefono": "4324324",
+      "notas": "dsadasdas",
+      "id": 5
+    }
+  ]
+}
